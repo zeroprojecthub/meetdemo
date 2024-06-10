@@ -1,0 +1,7 @@
+1. WAP to print Full Student Result of FIVE sub marks and calculate Total , per , Result, Grade 
+
+
+2 .WAP to Find the Maximum/ Minimum number among the Three number Using Turnery Operator
+
+
+3. WAP to swap 2 value without using third variable
